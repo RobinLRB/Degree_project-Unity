@@ -1,0 +1,17 @@
+Mono path[0] = 'E:/KTH/Degree Project/Unordinal-Offload CPU task to FPGA_GPU for Multiplayer Games Servers/unity_project1/tank_client/builds/benchmark/tank_client_Data/Managed'
+Mono config path = 'E:/KTH/Degree Project/Unordinal-Offload CPU task to FPGA_GPU for Multiplayer Games Servers/unity_project1/tank_client/builds/benchmark/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.18f1 (3310a4d4f880)
+[Subsystems] Discovering subsystems at path E:/KTH/Degree Project/Unordinal-Offload CPU task to FPGA_GPU for Multiplayer Games Servers/unity_project1/tank_client/builds/benchmark/tank_client_Data/UnitySubsystems
+Forcing GfxDevice: Null
+GfxDevice: creating device client; threaded=0
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.936 seconds
+Microsoft Media Foundation video decoding to texture disabled: graphics device is Null, only Direct3D 11 and Direct3D 12 (only on desktop) are supported.
+UnloadTime: 2.017100 ms
+KcpTransport initialized! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
