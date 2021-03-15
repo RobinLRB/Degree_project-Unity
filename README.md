@@ -3,7 +3,7 @@
 # Tank Client
 
 # Batch operation
-The file open_multiple.bat is using batch operation to open multiple executables. One can use command 
+The file "open_multiple.bat" is to use batch operation to open multiple executables. The path following the "start" syntax should be modified accordingly. One can use command 
 ```
 taskkill /im "tank_client.exe" /f 
 ```
